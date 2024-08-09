@@ -1,0 +1,60 @@
+{
+    "Customer 1":{
+        "Details":{
+            "Name":"abcd",
+            "Phone":644665,
+            "Payment Total":2850
+        },
+        "Transaction":{
+            "Item1":{
+                "Price per Piece":150,
+                "No. of Items":5,
+                "Total price":750
+            },
+            "Item2":{
+                "Price per Piece":100,
+                "No. of Items":3,
+                "Total price":300
+            },
+            "Item3":{
+                "Price per Piece":400,
+                "No. of Items":2,
+                "Total price":800
+            },
+            "Item4":{
+                "Price per Piece":200,
+                "No. of Items":8,
+                "Total price":1000
+            }
+        }
+    },
+    "Customer 2":{
+        "Details":{
+            "Name":"qwerty",
+            "Phone":456166,
+            "Payment Total":2600
+        },
+        "Transaction":{
+            "Item1":{
+                "Price per Piece":100,
+                "No. of Items":6,
+                "Total price":600
+            },
+            "Item2":{
+                "Price per Piece":200,
+                "No. of Items":3,
+                "Total price":600
+            },
+            "Item3":{
+                "Price per Piece":400,
+                "No. of Items":3,
+                "Total price":1200
+            },
+            "Item4":{
+                "Price per Piece":50,
+                "No. of Items":4,
+                "Total price":200
+            }
+        }
+    }
+}
